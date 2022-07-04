@@ -1,10 +1,8 @@
 # ASP.NET Core Developer Roadmap
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
 
-- [Dark Version](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
+- [Dark Version](https://raw.githubusercontent.com/stackdev19/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
 - [Read-me in Traditional Chinese](ReadMe.zh-Hant.md)
 - [Read-me in Simplified Chinese](ReadMe.zh-Hans.md)
 - [Read-me in Turkish](ReadMe-tr.md)
@@ -253,23 +251,7 @@ Idea from : [React Developer RoadMap](https://github.com/adam-golab/react-develo
 
 ## Contribution
 
-Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md).
-
-## Credits
-
-### Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AspNetCore-Developer-Roadmap#backer)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap#backers" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/backers.svg?width=890"></a>
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/AspNetCore-Developer-Roadmap#sponsor)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/avatar.svg"></a>
-
-
+Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/stackdev19/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md).
 
 ## License
 
