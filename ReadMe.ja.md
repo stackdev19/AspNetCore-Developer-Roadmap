@@ -1,8 +1,6 @@
 # ASP.NET Core 開発者ロードマップ
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
 
 - [英語 ReadMe](ReadMe.md)
 - [中国語繁体字 ReadMe](ReadMe.zh-Hant.md)

@@ -1,10 +1,8 @@
 # ASP.NET Core Geliştirici Yol Haritası
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#destekçiler)
-[![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsor)
 
-- [Karanlık Versiyon](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
+- [Karanlık Versiyon](https://raw.githubusercontent.com/stackdev19/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
 - [Basitleştirilmiş Çince'de beni oku](ReadMe.zh-Hans.md)
 - [Geleneksel Çince'de beni oku](ReadMe.zh-Hant.md)
 
@@ -249,21 +247,7 @@ fikir : [React Geliştirici Yol Haritası](https://github.com/adam-golab/react-d
 
 ## Katkı
 
-katkıda bulunmak ister misiniz? Topluluk geri bildirimlerini ve katkılarını teşvik ediyoruz. Lütfen [katkıda bulunan yönergelerimize](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md) uyun.
-
-## Jenerik
-
-### Destekçiler
-
-Tüm destekçilerimize teşekkür ederiz! 🙏 [[Destekçi ol!](https://opencollective.com/AspNetCore-Developer-Roadmap#backer)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap#backers" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/backers.svg?width=890"></a>
-
-### Sponsor
-
-Sponsor olarak bu projeye destek olun. Logonuz, web sitenize bir bağlantı ile burada görünecektir.[[Sponsor ol!](https://opencollective.com/AspNetCore-Developer-Roadmap#sponsor)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/avatar.svg"></a>
+katkıda bulunmak ister misiniz? Topluluk geri bildirimlerini ve katkılarını teşvik ediyoruz. Lütfen [katkıda bulunan yönergelerimize](https://github.com/stackdev19/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md) uyun.
 
 
 
